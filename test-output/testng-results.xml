@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79297" started-at="2016-04-20T05:04:23Z" finished-at="2016-04-20T05:05:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79297" started-at="2016-04-20T05:04:23Z" finished-at="2016-04-20T05:05:42Z">
+      <class name="com.mobile.base.PayTmLogin">
+        <test-method status="PASS" signature="appiumStartServer()[pri:0, instance:com.mobile.base.PayTmLogin@3ffc5af1]" name="appiumStartServer" is-config="true" duration-ms="5027" started-at="2016-04-19T22:04:18Z" finished-at="2016-04-19T22:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumStartServer -->
+        <test-method status="PASS" signature="setProperties()[pri:0, instance:com.mobile.base.PayTmLogin@3ffc5af1]" name="setProperties" is-config="true" duration-ms="0" started-at="2016-04-19T22:04:23Z" finished-at="2016-04-19T22:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperties -->
+        <test-method status="PASS" signature="openPayTm()[pri:0, instance:com.mobile.base.PayTmLogin@3ffc5af1]" name="openPayTm" duration-ms="42613" started-at="2016-04-19T22:04:23Z" finished-at="2016-04-19T22:05:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPayTm -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.mobile.base.PayTmLogin@3ffc5af1]" name="loginTest" duration-ms="25420" started-at="2016-04-19T22:05:06Z" finished-at="2016-04-19T22:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="addToCart()[pri:0, instance:com.mobile.base.PayTmLogin@3ffc5af1]" name="addToCart" duration-ms="11254" started-at="2016-04-19T22:05:31Z" finished-at="2016-04-19T22:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="appiumStopServer()[pri:0, instance:com.mobile.base.PayTmLogin@3ffc5af1]" name="appiumStopServer" is-config="true" duration-ms="40" started-at="2016-04-19T22:05:43Z" finished-at="2016-04-19T22:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumStopServer -->
+      </class> <!-- com.mobile.base.PayTmLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
